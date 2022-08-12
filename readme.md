@@ -2,6 +2,8 @@
 
 > Slack apps that can help tech individuals and tech teams to be more productive.
 
+# Contents
+
 [Slack apps for productivity](#slack-apps-for-productivity) \
 [Slack project management apps](#slack-project-management-apps) \
 [Slack apps for managing teams and culture](#slack-apps-for-managing-teams-and-culture) \
