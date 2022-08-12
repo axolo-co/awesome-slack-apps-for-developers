@@ -29,10 +29,10 @@ This category is dedicated to apps that allow you to manage tasks within Slack.
 
 - [Linear](https://linear.app/settings/integrations/slack) - The issue tracking tool you'll enjoy using.
 - [Trello](https://slack.com/apps/A074YH40Z-trello?tab=more_info) - Trello helps team move work forward.
-- [Asana](https://asana.com/)Move work forward
+- [Asana](https://asana.com/) - Move work forward.
 - [Jira](https://slack.com/apps/A2RPP3NFR-jira-cloud) - Jira started as a bug tracking system and has evolved into an all you can do project management App.
 - [Pivotal tracker ](https://www.pivotaltracker.com/) - is an agile project management tool made for developers. It’s old-school but does the job.
-- [Workast](https://www.workast.com/) - The missing piece of Slack
+- [Workast](https://www.workast.com/) - The missing piece of Slack.
 - [Notion](https://notion.so) - started off as a wiki all-in-one workspace for notes and also does collaboration, tables, project management and much more. They have a clean UI/UX and has been around for a few years.
 
 ## Slack apps for managing teams and culture
@@ -45,7 +45,7 @@ This category is dedicated to apps that allow you to manage tasks within Slack.
 - [Onboarding ⚡ by Roots](https://slack.com/apps/A01TZRAPHDK-onboarding-by-roots) - does a similar job to Greebot and also allows you to set up a workflow. You can automate asking tasks to specific people like creating a Gmail GSuite email to @support and more.
 - [AnonymityBot](https://slack.com/apps/AH64TE3NC-anonymitybot-anonymous-feedback) - Ask polls, make anonymous announcements, or ask anonymous questions to your team. I feel this could be useful in some company cultures where some employees might be afraid to speak on their name.
 - [Lunchtrain](https://slack.com/apps/A1BES823B-lunch-train) - Do you work in a city and have you ever tried to organize lunch with more than 2 colleagues in your company? Lunchtrain is the answer, making it easy to organize your lunches by getting everyone on board.
-- [Whatis](https://slack.com/apps/A9M62MQ3W-whatis) - Does your company use a lot of acronyms? Whatis is the answer
+- [Whatis](https://slack.com/apps/A9M62MQ3W-whatis) - Does your company use a lot of acronyms? Whatis is the answer.
 
 ## Code related integrations
 
@@ -64,13 +64,13 @@ This category is dedicated to apps that allow you to manage tasks within Slack.
 ## Calendar Slack apps
 
 - [Google calendar](https://slack.com/apps/ADZ494LHY-google-calendar) - Connect your calendar and update your status automatically when you are in a meeting.
-- [Fellow](https://fellow.app/integrations/slack/) - Encourages people in the meeting to come prepared and to follow a course of action during the meeting.-
+- [Fellow](https://fellow.app/integrations/slack/) - Encourages people in the meeting to come prepared and to follow a course of action during the meeting.
 
 ### Random Slack apps
 
 - [Giphy](https://slack.com/apps/A0F827J2C-giphy) - might be the most used / underrated / overrated app in the Slack marketplace.
 - [Gif Keyboard](https://slack.com/apps/A0FLZ2GVB-gif-keyboard) - Giphy has a competitor and Gif Key is there to help you add a caption and search Giphy in a more productive way ;).
-- [BirthdayBot](https://slack.com/apps/A0QAZV90X-birthdaybot) - Show that you care and make sure not to forget anyone’s birthday in your company!
+- [BirthdayBot](https://slack.com/apps/A0QAZV90X-birthdaybot) - Show that you care and make sure not to forget anyone’s birthday in your company.
 - [Miro](https://slack.com/apps/A8VK125AS-miro) - is a whiteboard collaboration app.
 
 ### Automation Slack apps
@@ -95,7 +95,7 @@ Bug tracker apps will let you know whenever there is something going wrong with 
 
 - [BugSnag](https://slack.com/apps/A3D2PUEHG-bugsnag) - has been mentioned by a lot of tech teams. It’s a world-famous service. The integration allows you to snooze, or say that you’ve resolved the bug from Slack.
 - [Sentry](https://sentry.io/) - What we particularly like about the Sentry slack integration is that you can assign a bug to someone directly from the Slack integration.
-- [Raygun](https://slack.com/apps/A3E2CU2CC-raygun) - Resolve errors, crashes, and application performance problems faster with Raygun and Slack
+- [Raygun](https://slack.com/apps/A3E2CU2CC-raygun) - Resolve errors, crashes, and application performance problems faster with Raygun and Slack.
 
 ## Log tracker
 
@@ -115,7 +115,7 @@ It's easy to ask a poll as a question and get an emoji response but if you want 
 ## People Management platform
 
 - [Café](https://slack.com/apps/A019MGGA2Q1-caf?tab=more_info) - The Social Hub
-  for Hybrid Teams
+  for Hybrid Teams.
 - [Donuts](https://www.donut.com/) - discover new rituals for your team that foster camaraderie, collaboration, and community.
 
 ## Cloud hosting
