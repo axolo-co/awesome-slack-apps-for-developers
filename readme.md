@@ -58,7 +58,7 @@ This category is dedicated to apps that allow you to manage tasks within Slack.
 - [StatusPage](https://slack.com/apps/A0F7VRHCL-statuspage-team-notifications) - Be alerted when there are changes to your Status page.
 - [CodeMagic](https://docs.codemagic.io/) - Easily follow your mobile app development with Code Magic. Configure a channel to get notified of relevant events.
 
-## Standup Slack app bot
+## Standup bot
 
 - [Standup.ly](https://standuply.com/) - Is more than just a simple standup bot it also allows to have other agile processes with 360 feedback, retrospective meeting, and more.
 - [Daily bot](https://www.dailybot.com/) - Is pretty similar to Standup.ly and seems to have analytics in your team motivation and blockers.
