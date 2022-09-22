@@ -7,7 +7,7 @@
 - [Slack apps for productivity](#slack-apps-for-productivity) \
 - [Slack project management apps](#slack-project-management-apps) \
 - [Slack apps for managing teams and culture](#slack-apps-for-managing-teams-and-culture) \
-- [Standup Slack app bot](#standup-Slack-app-bot) \
+- [Standup Slack app bot](#standup-bot) \
 - [Polls Slack Apps](#polls-Slack-Apps) \
 - [Bug tracker](#bug-tracker) \
 - [Log tracker](#log-tracker) \
