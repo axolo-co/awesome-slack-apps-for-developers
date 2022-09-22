@@ -4,17 +4,24 @@
 
 ## Contents
 
-- [Slack apps for productivity](#slack-apps-for-productivity) \
-- [Slack project management apps](#slack-project-management-apps) \
-- [Slack apps for managing teams and culture](#slack-apps-for-managing-teams-and-culture) \
-- [Standup Slack app bot](#standup-bot) \
-- [Polls Slack Apps](#polls-Slack-Apps) \
-- [Bug tracker](#bug-tracker) \
-- [Log tracker](#log-tracker) \
-- [Cloud hosting](#cloud-hosting) \
-- [People Management platform](#people-Management-platform) \
-- [Data visualizer](#data-visualizer) \
-- [Code related integrations](#code-related-integrations)
+- [Awesome Slack Apps ![Awesome](https://awesome.re)](#awesome-slack-apps-)
+  - [Contents](#contents)
+  - [Slack apps for productivity](#slack-apps-for-productivity)
+  - [Slack project management apps](#slack-project-management-apps)
+  - [Slack apps for managing teams and culture](#slack-apps-for-managing-teams-and-culture)
+  - [Code related integrations](#code-related-integrations)
+  - [Standup bot](#standup-bot)
+  - [Calendar Slack apps](#calendar-slack-apps)
+    - [Random Slack apps](#random-slack-apps)
+    - [Automation Slack apps](#automation-slack-apps)
+    - [Incident apps](#incident-apps)
+  - [Bug tracker](#bug-tracker)
+  - [Log tracker](#log-tracker)
+  - [Polls Slack Apps](#polls-slack-apps)
+  - [Data visualizer](#data-visualizer)
+  - [People Management platform](#people-management-platform)
+  - [Cloud hosting](#cloud-hosting)
+  - [Contribute](#contribute)
 
 ## Slack apps for productivity
 
@@ -33,7 +40,7 @@ This category is dedicated to apps that allow you to manage tasks within Slack.
 - [Trello](https://slack.com/apps/A074YH40Z-trello?tab=more_info) - Trello helps team move work forward.
 - [Asana](https://asana.com/) - Move work forward.
 - [Jira](https://slack.com/apps/A2RPP3NFR-jira-cloud) - Jira started as a bug tracking system and has evolved into an all you can do project management App.
-- [Pivotal tracker](https://www.pivotaltracker.com/) - Is an agile project management tool made for developers. It’s old-school but does the job.
+- [Pivotal tracker](https://www.pivotaltracker.com/) - Is an agile project management tool made for developers. It's old-school but does the job.
 - [Workast](https://www.workast.com/) - The missing piece of Slack.
 - [Notion](https://notion.so) - Started off as a wiki all-in-one workspace for notes and also does collaboration, tables, project management and much more. They have a clean UI/UX and has been around for a few years.
 
@@ -72,7 +79,7 @@ This category is dedicated to apps that allow you to manage tasks within Slack.
 
 - [Giphy](https://slack.com/apps/A0F827J2C-giphy) - Might be the most used / underrated / overrated app in the Slack marketplace.
 - [Gif Keyboard](https://slack.com/apps/A0FLZ2GVB-gif-keyboard) - Giphy has a competitor and Gif Key is there to help you add a caption and search Giphy in a more productive way ;).
-- [BirthdayBot](https://slack.com/apps/A0QAZV90X-birthdaybot) - Show that you care and make sure not to forget anyone’s birthday in your company.
+- [BirthdayBot](https://slack.com/apps/A0QAZV90X-birthdaybot) - Show that you care and make sure not to forget anyone's birthday in your company.
 - [Miro](https://slack.com/apps/A8VK125AS-miro) - Is a whiteboard collaboration app.
 
 ### Automation Slack apps
@@ -86,16 +93,16 @@ Here is a list of Slack apps that can automate some of your workflows. They can 
 
 ### Incident apps
 
-I’ve seen numerous incident apps coming up in the past few/months/years. They are usually targeted at bigger companies that have SRE (Site reliability engineers) in the company. They are quite useful to put a methodology in place for any tech and non-tech urgency that one company can have.
+I've seen numerous incident apps coming up in the past few/months/years. They are usually targeted at bigger companies that have SRE (Site reliability engineers) in the company. They are quite useful to put a methodology in place for any tech and non-tech urgency that one company can have.
 
 - [Incident.io](https://incident.io/) - Is a well-funded company by ex-Monzo (banking) employees.
-- [Allma.io](https://Allma.io) - Have a great way of showing how their process works on their website so you can see if it’s something you should be interested in.
+- [Allma.io](https://Allma.io) - Have a great way of showing how their process works on their website so you can see if it's something you should be interested in.
 
 ## Bug tracker
 
 Bug tracker apps will let you know whenever there is something going wrong with your code. There are many different services but here are the most common ones.
 
-- [BugSnag](https://slack.com/apps/A3D2PUEHG-bugsnag) - Has been mentioned by a lot of tech teams. It’s a world-famous service. The integration allows you to snooze, or say that you’ve resolved the bug from Slack.
+- [BugSnag](https://slack.com/apps/A3D2PUEHG-bugsnag) - Has been mentioned by a lot of tech teams. It's a world-famous service. The integration allows you to snooze, or say that you've resolved the bug from Slack.
 - [Sentry](https://sentry.io/) - What we particularly like about the Sentry slack integration is that you can assign a bug to someone directly from the Slack integration.
 - [Raygun](https://slack.com/apps/A3E2CU2CC-raygun) - Resolve errors, crashes, and application performance problems faster with Raygun and Slack.
 
@@ -108,7 +115,7 @@ Bug tracker apps will let you know whenever there is something going wrong with 
 It's easy to ask a poll as a question and get an emoji response but if you want to go further there are other apps out there that can help you be more precise.
 
 - [Simple Poll](https://slack.com/apps/A0HFW7MR6-simple-poll?tab=more_info) - Create polls in seconds with Simple Poll.
-- [Typeform](https://www.typeform.com/) - With Slack app, receive all your respondents' answers in Slack as soon as they’re sent!
+- [Typeform](https://www.typeform.com/) - With Slack app, receive all your respondents' answers in Slack as soon as they're sent!
 
 ## Data visualizer
 
@@ -122,7 +129,7 @@ It's easy to ask a poll as a question and get an emoji response but if you want 
 
 ## Cloud hosting
 
-- [Heroku ChatOps](https://slack.com/apps/A1QME020P-heroku-chatops?tab=more_info) - Enables you to deploy code, and get CI tests directly within Slack. Stay on top of your Heroku app’s status without jumping from one site to another.
+- [Heroku ChatOps](https://slack.com/apps/A1QME020P-heroku-chatops?tab=more_info) - Enables you to deploy code, and get CI tests directly within Slack. Stay on top of your Heroku app's status without jumping from one site to another.
 - [AWS Chatbot](https://slack.com/apps/A6L22LZNH-aws-chatbot?tab=more_info) - Is an interactive agent that simplifies monitoring and interacting with your AWS resources in your Slack channels and Amazon Chime chat spaces.
 - [Awsome](https://awsome.inellipse.com/) - Enables simple, easy and quick management of Amazon Web Services EC2 instances directly from Slack.
 
