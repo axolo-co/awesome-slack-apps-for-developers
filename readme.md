@@ -4,7 +4,7 @@
 
 ## Contents
 
-- [Awesome Slack Apps ![Awesome](https://awesome.re)](#awesome-slack-apps-)
+- [Awesome Slack Apps ![Awesome](https://awesome.re/badge.svg)](#awesome-slack-apps-for-developers)
   - [Contents](#contents)
   - [Slack apps for productivity](#slack-apps-for-productivity)
   - [Slack project management apps](#slack-project-management-apps)
