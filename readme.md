@@ -1,4 +1,4 @@
-# Awesome Slack Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Slack Apps For Developers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Slack apps that can help tech individuals and tech teams to be more productive.
 
