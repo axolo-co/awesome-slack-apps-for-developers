@@ -1,4 +1,4 @@
-# Awesome Slack Apps For Developers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Slack apps for developers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Slack apps that can help tech individuals and tech teams to be more productive.
 
@@ -110,7 +110,7 @@ Bug tracker apps will let you know whenever there is something going wrong with 
 
 - [Papertrail](https://slack.com/apps/A0F81FMT8-papertrail) - Integration enables you to receive important system and application messages right when they happen.
 
-## Polls Slack Apps
+## Polls Slack apps
 
 It's easy to ask a poll as a question and get an emoji response but if you want to go further there are other apps out there that can help you be more precise.
 
@@ -121,7 +121,7 @@ It's easy to ask a poll as a question and get an emoji response but if you want 
 
 - [New Relic](https://slack.com/apps/AP92KQJS3-new-relic?tab=more_info) - Has a Proactive Detection, anomalies from your APM-monitored applications will surface in their activity streams and anomalies feed.
 
-## People Management platform
+## People management platform
 
 - [Café](https://slack.com/apps/A019MGGA2Q1-caf?tab=more_info) - The Social Hub
   for Hybrid Teams.
